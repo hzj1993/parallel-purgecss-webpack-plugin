@@ -17,8 +17,12 @@ Via npm:
 **webpack.config.js**
 
 ```js
+const glob = require('glob')
 const MiniCssExtractPlugin = require('mini-css-extract-plugin');
 const ParallelPurgecssWebpackPlugin = require("parallel-purgecss-webpack-plugin");
+const PATHS = {
+  src: path.join(__dirname, 'src')
+}
 
 module.exports = {
   module: {
@@ -32,9 +36,7 @@ module.exports = {
   plugins: [
     new MiniCssExtractPlugin(),
     new ParallelPurgecssWebpackPlugin({
-      paths: glob.sync(`${path.join(process.cwd(), "src")}/**/*`, {
-        nodir: true,
-      })
+      paths: glob.sync(`${PATHS.src}/**/*`,  { nodir: true }),
       // or other purgecss-webpack-plugin options...
     })
   ]

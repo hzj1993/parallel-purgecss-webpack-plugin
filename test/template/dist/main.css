@@ -1,0 +1,696 @@
+@keyframes yy-ipt{0%{border-color:#4791ff transparent #4791ff #4791ff}
+100%{border-color:#e10602 transparent #e10602 #e10602}}
+@keyframes yy-ipt-blue{0%{border-color:#e10602 transparent #e10602 #e10602}
+100%{border-color:#4791ff transparent #4791ff #4791ff}}
+@keyframes yunying{0%{background-color:#3385ff;border-bottom:1px solid #2d78f4}
+100%{background-color:#e10602;border-bottom:1px solid #c30602}}
+@keyframes yunying-blue{0%{background-color:#e10602;border-bottom:1px solid #c30602}
+100%{background-color:#3385ff;border-bottom:1px solid #2d78f4}}
+@keyframes yy-ipt{0%{border-color:#4791ff transparent #4791ff #4791ff}
+100%{border-color:#e10602 transparent #e10602 #e10602}}
+@keyframes yy-ipt-blue{0%{border-color:#e10602 transparent #e10602 #e10602}
+100%{border-color:#4791ff transparent #4791ff #4791ff}}
+@keyframes yunying{0%{background-color:#3385ff;border-bottom:1px solid #2d78f4}
+100%{background-color:#e10602;border-bottom:1px solid #c30602}}
+@keyframes yunying-blue{0%{background-color:#e10602;border-bottom:1px solid #c30602}
+100%{background-color:#3385ff;border-bottom:1px solid #2d78f4}}
+@keyframes yy-ipt{0%{border-color:#4791ff transparent #4791ff #4791ff}
+100%{border-color:#e10602 transparent #e10602 #e10602}}
+@keyframes yy-ipt-blue{0%{border-color:#e10602 transparent #e10602 #e10602}
+100%{border-color:#4791ff transparent #4791ff #4791ff}}
+@keyframes yunying{0%{background-color:#3385ff;border-bottom:1px solid #2d78f4}
+100%{background-color:#e10602;border-bottom:1px solid #c30602}}
+@keyframes yunying-blue{0%{background-color:#e10602;border-bottom:1px solid #c30602}
+100%{background-color:#3385ff;border-bottom:1px solid #2d78f4}}
+@keyframes yy-ipt{0%{border-color:#4791ff transparent #4791ff #4791ff}
+100%{border-color:#e10602 transparent #e10602 #e10602}}
+@keyframes yy-ipt-blue{0%{border-color:#e10602 transparent #e10602 #e10602}
+100%{border-color:#4791ff transparent #4791ff #4791ff}}
+@keyframes yunying{0%{background-color:#3385ff;border-bottom:1px solid #2d78f4}
+100%{background-color:#e10602;border-bottom:1px solid #c30602}}
+@keyframes yunying-blue{0%{background-color:#e10602;border-bottom:1px solid #c30602}
+100%{background-color:#3385ff;border-bottom:1px solid #2d78f4}}
+@keyframes yy-ipt{0%{border-color:#4791ff transparent #4791ff #4791ff}
+100%{border-color:#e10602 transparent #e10602 #e10602}}
+@keyframes yy-ipt-blue{0%{border-color:#e10602 transparent #e10602 #e10602}
+100%{border-color:#4791ff transparent #4791ff #4791ff}}
+@keyframes yunying{0%{background-color:#3385ff;border-bottom:1px solid #2d78f4}
+100%{background-color:#e10602;border-bottom:1px solid #c30602}}
+@keyframes yunying-blue{0%{background-color:#e10602;border-bottom:1px solid #c30602}
+100%{background-color:#3385ff;border-bottom:1px solid #2d78f4}}
+@keyframes yy-ipt{0%{border-color:#4791ff transparent #4791ff #4791ff}
+100%{border-color:#e10602 transparent #e10602 #e10602}}
+@keyframes yy-ipt-blue{0%{border-color:#e10602 transparent #e10602 #e10602}
+100%{border-color:#4791ff transparent #4791ff #4791ff}}
+@keyframes yunying{0%{background-color:#3385ff;border-bottom:1px solid #2d78f4}
+100%{background-color:#e10602;border-bottom:1px solid #c30602}}
+@keyframes yunying-blue{0%{background-color:#e10602;border-bottom:1px solid #c30602}
+100%{background-color:#3385ff;border-bottom:1px solid #2d78f4}}
+@keyframes yy-ipt{0%{border-color:#4791ff transparent #4791ff #4791ff}
+100%{border-color:#e10602 transparent #e10602 #e10602}}
+@keyframes yy-ipt-blue{0%{border-color:#e10602 transparent #e10602 #e10602}
+100%{border-color:#4791ff transparent #4791ff #4791ff}}
+@keyframes yunying{0%{background-color:#3385ff;border-bottom:1px solid #2d78f4}
+100%{background-color:#e10602;border-bottom:1px solid #c30602}}
+@keyframes yunying-blue{0%{background-color:#e10602;border-bottom:1px solid #c30602}
+100%{background-color:#3385ff;border-bottom:1px solid #2d78f4}}
+@keyframes yy-ipt{0%{border-color:#4791ff transparent #4791ff #4791ff}
+100%{border-color:#e10602 transparent #e10602 #e10602}}
+@keyframes yy-ipt-blue{0%{border-color:#e10602 transparent #e10602 #e10602}
+100%{border-color:#4791ff transparent #4791ff #4791ff}}
+@keyframes yunying{0%{background-color:#3385ff;border-bottom:1px solid #2d78f4}
+100%{background-color:#e10602;border-bottom:1px solid #c30602}}
+@keyframes yunying-blue{0%{background-color:#e10602;border-bottom:1px solid #c30602}
+100%{background-color:#3385ff;border-bottom:1px solid #2d78f4}}
+@keyframes yy-ipt{0%{border-color:#4791ff transparent #4791ff #4791ff}
+100%{border-color:#e10602 transparent #e10602 #e10602}}
+@keyframes yy-ipt-blue{0%{border-color:#e10602 transparent #e10602 #e10602}
+100%{border-color:#4791ff transparent #4791ff #4791ff}}
+@keyframes yunying{0%{background-color:#3385ff;border-bottom:1px solid #2d78f4}
+100%{background-color:#e10602;border-bottom:1px solid #c30602}}
+@keyframes yunying-blue{0%{background-color:#e10602;border-bottom:1px solid #c30602}
+100%{background-color:#3385ff;border-bottom:1px solid #2d78f4}}
+@keyframes yy-ipt{0%{border-color:#4791ff transparent #4791ff #4791ff}
+100%{border-color:#e10602 transparent #e10602 #e10602}}
+@keyframes yy-ipt-blue{0%{border-color:#e10602 transparent #e10602 #e10602}
+100%{border-color:#4791ff transparent #4791ff #4791ff}}
+@keyframes yunying{0%{background-color:#3385ff;border-bottom:1px solid #2d78f4}
+100%{background-color:#e10602;border-bottom:1px solid #c30602}}
+@keyframes yunying-blue{0%{background-color:#e10602;border-bottom:1px solid #c30602}
+100%{background-color:#3385ff;border-bottom:1px solid #2d78f4}}
+@keyframes yy-ipt{0%{border-color:#4791ff transparent #4791ff #4791ff}
+100%{border-color:#e10602 transparent #e10602 #e10602}}
+@keyframes yy-ipt-blue{0%{border-color:#e10602 transparent #e10602 #e10602}
+100%{border-color:#4791ff transparent #4791ff #4791ff}}
+@keyframes yunying{0%{background-color:#3385ff;border-bottom:1px solid #2d78f4}
+100%{background-color:#e10602;border-bottom:1px solid #c30602}}
+@keyframes yunying-blue{0%{background-color:#e10602;border-bottom:1px solid #c30602}
+100%{background-color:#3385ff;border-bottom:1px solid #2d78f4}}
+@keyframes yy-ipt{0%{border-color:#4791ff transparent #4791ff #4791ff}
+100%{border-color:#e10602 transparent #e10602 #e10602}}
+@keyframes yy-ipt-blue{0%{border-color:#e10602 transparent #e10602 #e10602}
+100%{border-color:#4791ff transparent #4791ff #4791ff}}
+@keyframes yunying{0%{background-color:#3385ff;border-bottom:1px solid #2d78f4}
+100%{background-color:#e10602;border-bottom:1px solid #c30602}}
+@keyframes yunying-blue{0%{background-color:#e10602;border-bottom:1px solid #c30602}
+100%{background-color:#3385ff;border-bottom:1px solid #2d78f4}}
+@keyframes yy-ipt{0%{border-color:#4791ff transparent #4791ff #4791ff}
+100%{border-color:#e10602 transparent #e10602 #e10602}}
+@keyframes yy-ipt-blue{0%{border-color:#e10602 transparent #e10602 #e10602}
+100%{border-color:#4791ff transparent #4791ff #4791ff}}
+@keyframes yunying{0%{background-color:#3385ff;border-bottom:1px solid #2d78f4}
+100%{background-color:#e10602;border-bottom:1px solid #c30602}}
+@keyframes yunying-blue{0%{background-color:#e10602;border-bottom:1px solid #c30602}
+100%{background-color:#3385ff;border-bottom:1px solid #2d78f4}}
+@keyframes yy-ipt{0%{border-color:#4791ff transparent #4791ff #4791ff}
+100%{border-color:#e10602 transparent #e10602 #e10602}}
+@keyframes yy-ipt-blue{0%{border-color:#e10602 transparent #e10602 #e10602}
+100%{border-color:#4791ff transparent #4791ff #4791ff}}
+@keyframes yunying{0%{background-color:#3385ff;border-bottom:1px solid #2d78f4}
+100%{background-color:#e10602;border-bottom:1px solid #c30602}}
+@keyframes yunying-blue{0%{background-color:#e10602;border-bottom:1px solid #c30602}
+100%{background-color:#3385ff;border-bottom:1px solid #2d78f4}}
+@keyframes yy-ipt{0%{border-color:#4791ff transparent #4791ff #4791ff}
+100%{border-color:#e10602 transparent #e10602 #e10602}}
+@keyframes yy-ipt-blue{0%{border-color:#e10602 transparent #e10602 #e10602}
+100%{border-color:#4791ff transparent #4791ff #4791ff}}
+@keyframes yunying{0%{background-color:#3385ff;border-bottom:1px solid #2d78f4}
+100%{background-color:#e10602;border-bottom:1px solid #c30602}}
+@keyframes yunying-blue{0%{background-color:#e10602;border-bottom:1px solid #c30602}
+100%{background-color:#3385ff;border-bottom:1px solid #2d78f4}}
+@keyframes yy-ipt{0%{border-color:#4791ff transparent #4791ff #4791ff}
+100%{border-color:#e10602 transparent #e10602 #e10602}}
+@keyframes yy-ipt-blue{0%{border-color:#e10602 transparent #e10602 #e10602}
+100%{border-color:#4791ff transparent #4791ff #4791ff}}
+@keyframes yunying{0%{background-color:#3385ff;border-bottom:1px solid #2d78f4}
+100%{background-color:#e10602;border-bottom:1px solid #c30602}}
+@keyframes yunying-blue{0%{background-color:#e10602;border-bottom:1px solid #c30602}
+100%{background-color:#3385ff;border-bottom:1px solid #2d78f4}}
+@keyframes yy-ipt{0%{border-color:#4791ff transparent #4791ff #4791ff}
+100%{border-color:#e10602 transparent #e10602 #e10602}}
+@keyframes yy-ipt-blue{0%{border-color:#e10602 transparent #e10602 #e10602}
+100%{border-color:#4791ff transparent #4791ff #4791ff}}
+@keyframes yunying{0%{background-color:#3385ff;border-bottom:1px solid #2d78f4}
+100%{background-color:#e10602;border-bottom:1px solid #c30602}}
+@keyframes yunying-blue{0%{background-color:#e10602;border-bottom:1px solid #c30602}
+100%{background-color:#3385ff;border-bottom:1px solid #2d78f4}}
+@keyframes yy-ipt{0%{border-color:#4791ff transparent #4791ff #4791ff}
+100%{border-color:#e10602 transparent #e10602 #e10602}}
+@keyframes yy-ipt-blue{0%{border-color:#e10602 transparent #e10602 #e10602}
+100%{border-color:#4791ff transparent #4791ff #4791ff}}
+@keyframes yunying{0%{background-color:#3385ff;border-bottom:1px solid #2d78f4}
+100%{background-color:#e10602;border-bottom:1px solid #c30602}}
+@keyframes yunying-blue{0%{background-color:#e10602;border-bottom:1px solid #c30602}
+100%{background-color:#3385ff;border-bottom:1px solid #2d78f4}}
+@keyframes yy-ipt{0%{border-color:#4791ff transparent #4791ff #4791ff}
+100%{border-color:#e10602 transparent #e10602 #e10602}}
+@keyframes yy-ipt-blue{0%{border-color:#e10602 transparent #e10602 #e10602}
+100%{border-color:#4791ff transparent #4791ff #4791ff}}
+@keyframes yunying{0%{background-color:#3385ff;border-bottom:1px solid #2d78f4}
+100%{background-color:#e10602;border-bottom:1px solid #c30602}}
+@keyframes yunying-blue{0%{background-color:#e10602;border-bottom:1px solid #c30602}
+100%{background-color:#3385ff;border-bottom:1px solid #2d78f4}}
+@keyframes yy-ipt{0%{border-color:#4791ff transparent #4791ff #4791ff}
+100%{border-color:#e10602 transparent #e10602 #e10602}}
+@keyframes yy-ipt-blue{0%{border-color:#e10602 transparent #e10602 #e10602}
+100%{border-color:#4791ff transparent #4791ff #4791ff}}
+@keyframes yunying{0%{background-color:#3385ff;border-bottom:1px solid #2d78f4}
+100%{background-color:#e10602;border-bottom:1px solid #c30602}}
+@keyframes yunying-blue{0%{background-color:#e10602;border-bottom:1px solid #c30602}
+100%{background-color:#3385ff;border-bottom:1px solid #2d78f4}}
+@keyframes yy-ipt{0%{border-color:#4791ff transparent #4791ff #4791ff}
+100%{border-color:#e10602 transparent #e10602 #e10602}}
+@keyframes yy-ipt-blue{0%{border-color:#e10602 transparent #e10602 #e10602}
+100%{border-color:#4791ff transparent #4791ff #4791ff}}
+@keyframes yunying{0%{background-color:#3385ff;border-bottom:1px solid #2d78f4}
+100%{background-color:#e10602;border-bottom:1px solid #c30602}}
+@keyframes yunying-blue{0%{background-color:#e10602;border-bottom:1px solid #c30602}
+100%{background-color:#3385ff;border-bottom:1px solid #2d78f4}}
+@keyframes yy-ipt{0%{border-color:#4791ff transparent #4791ff #4791ff}
+100%{border-color:#e10602 transparent #e10602 #e10602}}
+@keyframes yy-ipt-blue{0%{border-color:#e10602 transparent #e10602 #e10602}
+100%{border-color:#4791ff transparent #4791ff #4791ff}}
+@keyframes yunying{0%{background-color:#3385ff;border-bottom:1px solid #2d78f4}
+100%{background-color:#e10602;border-bottom:1px solid #c30602}}
+@keyframes yunying-blue{0%{background-color:#e10602;border-bottom:1px solid #c30602}
+100%{background-color:#3385ff;border-bottom:1px solid #2d78f4}}
+@keyframes yy-ipt{0%{border-color:#4791ff transparent #4791ff #4791ff}
+100%{border-color:#e10602 transparent #e10602 #e10602}}
+@keyframes yy-ipt-blue{0%{border-color:#e10602 transparent #e10602 #e10602}
+100%{border-color:#4791ff transparent #4791ff #4791ff}}
+@keyframes yunying{0%{background-color:#3385ff;border-bottom:1px solid #2d78f4}
+100%{background-color:#e10602;border-bottom:1px solid #c30602}}
+@keyframes yunying-blue{0%{background-color:#e10602;border-bottom:1px solid #c30602}
+100%{background-color:#3385ff;border-bottom:1px solid #2d78f4}}
+@keyframes yy-ipt{0%{border-color:#4791ff transparent #4791ff #4791ff}
+100%{border-color:#e10602 transparent #e10602 #e10602}}
+@keyframes yy-ipt-blue{0%{border-color:#e10602 transparent #e10602 #e10602}
+100%{border-color:#4791ff transparent #4791ff #4791ff}}
+@keyframes yunying{0%{background-color:#3385ff;border-bottom:1px solid #2d78f4}
+100%{background-color:#e10602;border-bottom:1px solid #c30602}}
+@keyframes yunying-blue{0%{background-color:#e10602;border-bottom:1px solid #c30602}
+100%{background-color:#3385ff;border-bottom:1px solid #2d78f4}}
+@keyframes yy-ipt{0%{border-color:#4791ff transparent #4791ff #4791ff}
+100%{border-color:#e10602 transparent #e10602 #e10602}}
+@keyframes yy-ipt-blue{0%{border-color:#e10602 transparent #e10602 #e10602}
+100%{border-color:#4791ff transparent #4791ff #4791ff}}
+@keyframes yunying{0%{background-color:#3385ff;border-bottom:1px solid #2d78f4}
+100%{background-color:#e10602;border-bottom:1px solid #c30602}}
+@keyframes yunying-blue{0%{background-color:#e10602;border-bottom:1px solid #c30602}
+100%{background-color:#3385ff;border-bottom:1px solid #2d78f4}}
+@keyframes yy-ipt{0%{border-color:#4791ff transparent #4791ff #4791ff}
+100%{border-color:#e10602 transparent #e10602 #e10602}}
+@keyframes yy-ipt-blue{0%{border-color:#e10602 transparent #e10602 #e10602}
+100%{border-color:#4791ff transparent #4791ff #4791ff}}
+@keyframes yunying{0%{background-color:#3385ff;border-bottom:1px solid #2d78f4}
+100%{background-color:#e10602;border-bottom:1px solid #c30602}}
+@keyframes yunying-blue{0%{background-color:#e10602;border-bottom:1px solid #c30602}
+100%{background-color:#3385ff;border-bottom:1px solid #2d78f4}}
+@keyframes yy-ipt{0%{border-color:#4791ff transparent #4791ff #4791ff}
+100%{border-color:#e10602 transparent #e10602 #e10602}}
+@keyframes yy-ipt-blue{0%{border-color:#e10602 transparent #e10602 #e10602}
+100%{border-color:#4791ff transparent #4791ff #4791ff}}
+@keyframes yunying{0%{background-color:#3385ff;border-bottom:1px solid #2d78f4}
+100%{background-color:#e10602;border-bottom:1px solid #c30602}}
+@keyframes yunying-blue{0%{background-color:#e10602;border-bottom:1px solid #c30602}
+100%{background-color:#3385ff;border-bottom:1px solid #2d78f4}}
+@keyframes yy-ipt{0%{border-color:#4791ff transparent #4791ff #4791ff}
+100%{border-color:#e10602 transparent #e10602 #e10602}}
+@keyframes yy-ipt-blue{0%{border-color:#e10602 transparent #e10602 #e10602}
+100%{border-color:#4791ff transparent #4791ff #4791ff}}
+@keyframes yunying{0%{background-color:#3385ff;border-bottom:1px solid #2d78f4}
+100%{background-color:#e10602;border-bottom:1px solid #c30602}}
+@keyframes yunying-blue{0%{background-color:#e10602;border-bottom:1px solid #c30602}
+100%{background-color:#3385ff;border-bottom:1px solid #2d78f4}}
+@keyframes yy-ipt{0%{border-color:#4791ff transparent #4791ff #4791ff}
+100%{border-color:#e10602 transparent #e10602 #e10602}}
+@keyframes yy-ipt-blue{0%{border-color:#e10602 transparent #e10602 #e10602}
+100%{border-color:#4791ff transparent #4791ff #4791ff}}
+@keyframes yunying{0%{background-color:#3385ff;border-bottom:1px solid #2d78f4}
+100%{background-color:#e10602;border-bottom:1px solid #c30602}}
+@keyframes yunying-blue{0%{background-color:#e10602;border-bottom:1px solid #c30602}
+100%{background-color:#3385ff;border-bottom:1px solid #2d78f4}}
+@keyframes yy-ipt{0%{border-color:#4791ff transparent #4791ff #4791ff}
+100%{border-color:#e10602 transparent #e10602 #e10602}}
+@keyframes yy-ipt-blue{0%{border-color:#e10602 transparent #e10602 #e10602}
+100%{border-color:#4791ff transparent #4791ff #4791ff}}
+@keyframes yunying{0%{background-color:#3385ff;border-bottom:1px solid #2d78f4}
+100%{background-color:#e10602;border-bottom:1px solid #c30602}}
+@keyframes yunying-blue{0%{background-color:#e10602;border-bottom:1px solid #c30602}
+100%{background-color:#3385ff;border-bottom:1px solid #2d78f4}}
+@keyframes yy-ipt{0%{border-color:#4791ff transparent #4791ff #4791ff}
+100%{border-color:#e10602 transparent #e10602 #e10602}}
+@keyframes yy-ipt-blue{0%{border-color:#e10602 transparent #e10602 #e10602}
+100%{border-color:#4791ff transparent #4791ff #4791ff}}
+@keyframes yunying{0%{background-color:#3385ff;border-bottom:1px solid #2d78f4}
+100%{background-color:#e10602;border-bottom:1px solid #c30602}}
+@keyframes yunying-blue{0%{background-color:#e10602;border-bottom:1px solid #c30602}
+100%{background-color:#3385ff;border-bottom:1px solid #2d78f4}}
+@keyframes yy-ipt{0%{border-color:#4791ff transparent #4791ff #4791ff}
+100%{border-color:#e10602 transparent #e10602 #e10602}}
+@keyframes yy-ipt-blue{0%{border-color:#e10602 transparent #e10602 #e10602}
+100%{border-color:#4791ff transparent #4791ff #4791ff}}
+@keyframes yunying{0%{background-color:#3385ff;border-bottom:1px solid #2d78f4}
+100%{background-color:#e10602;border-bottom:1px solid #c30602}}
+@keyframes yunying-blue{0%{background-color:#e10602;border-bottom:1px solid #c30602}
+100%{background-color:#3385ff;border-bottom:1px solid #2d78f4}}
+@keyframes yy-ipt{0%{border-color:#4791ff transparent #4791ff #4791ff}
+100%{border-color:#e10602 transparent #e10602 #e10602}}
+@keyframes yy-ipt-blue{0%{border-color:#e10602 transparent #e10602 #e10602}
+100%{border-color:#4791ff transparent #4791ff #4791ff}}
+@keyframes yunying{0%{background-color:#3385ff;border-bottom:1px solid #2d78f4}
+100%{background-color:#e10602;border-bottom:1px solid #c30602}}
+@keyframes yunying-blue{0%{background-color:#e10602;border-bottom:1px solid #c30602}
+100%{background-color:#3385ff;border-bottom:1px solid #2d78f4}}
+@keyframes yy-ipt{0%{border-color:#4791ff transparent #4791ff #4791ff}
+100%{border-color:#e10602 transparent #e10602 #e10602}}
+@keyframes yy-ipt-blue{0%{border-color:#e10602 transparent #e10602 #e10602}
+100%{border-color:#4791ff transparent #4791ff #4791ff}}
+@keyframes yunying{0%{background-color:#3385ff;border-bottom:1px solid #2d78f4}
+100%{background-color:#e10602;border-bottom:1px solid #c30602}}
+@keyframes yunying-blue{0%{background-color:#e10602;border-bottom:1px solid #c30602}
+100%{background-color:#3385ff;border-bottom:1px solid #2d78f4}}
+@keyframes yy-ipt{0%{border-color:#4791ff transparent #4791ff #4791ff}
+100%{border-color:#e10602 transparent #e10602 #e10602}}
+@keyframes yy-ipt-blue{0%{border-color:#e10602 transparent #e10602 #e10602}
+100%{border-color:#4791ff transparent #4791ff #4791ff}}
+@keyframes yunying{0%{background-color:#3385ff;border-bottom:1px solid #2d78f4}
+100%{background-color:#e10602;border-bottom:1px solid #c30602}}
+@keyframes yunying-blue{0%{background-color:#e10602;border-bottom:1px solid #c30602}
+100%{background-color:#3385ff;border-bottom:1px solid #2d78f4}}
+@keyframes yy-ipt{0%{border-color:#4791ff transparent #4791ff #4791ff}
+100%{border-color:#e10602 transparent #e10602 #e10602}}
+@keyframes yy-ipt-blue{0%{border-color:#e10602 transparent #e10602 #e10602}
+100%{border-color:#4791ff transparent #4791ff #4791ff}}
+@keyframes yunying{0%{background-color:#3385ff;border-bottom:1px solid #2d78f4}
+100%{background-color:#e10602;border-bottom:1px solid #c30602}}
+@keyframes yunying-blue{0%{background-color:#e10602;border-bottom:1px solid #c30602}
+100%{background-color:#3385ff;border-bottom:1px solid #2d78f4}}
+@keyframes yy-ipt{0%{border-color:#4791ff transparent #4791ff #4791ff}
+100%{border-color:#e10602 transparent #e10602 #e10602}}
+@keyframes yy-ipt-blue{0%{border-color:#e10602 transparent #e10602 #e10602}
+100%{border-color:#4791ff transparent #4791ff #4791ff}}
+@keyframes yunying{0%{background-color:#3385ff;border-bottom:1px solid #2d78f4}
+100%{background-color:#e10602;border-bottom:1px solid #c30602}}
+@keyframes yunying-blue{0%{background-color:#e10602;border-bottom:1px solid #c30602}
+100%{background-color:#3385ff;border-bottom:1px solid #2d78f4}}
+@keyframes yy-ipt{0%{border-color:#4791ff transparent #4791ff #4791ff}
+100%{border-color:#e10602 transparent #e10602 #e10602}}
+@keyframes yy-ipt-blue{0%{border-color:#e10602 transparent #e10602 #e10602}
+100%{border-color:#4791ff transparent #4791ff #4791ff}}
+@keyframes yunying{0%{background-color:#3385ff;border-bottom:1px solid #2d78f4}
+100%{background-color:#e10602;border-bottom:1px solid #c30602}}
+@keyframes yunying-blue{0%{background-color:#e10602;border-bottom:1px solid #c30602}
+100%{background-color:#3385ff;border-bottom:1px solid #2d78f4}}
+@keyframes yy-ipt{0%{border-color:#4791ff transparent #4791ff #4791ff}
+100%{border-color:#e10602 transparent #e10602 #e10602}}
+@keyframes yy-ipt-blue{0%{border-color:#e10602 transparent #e10602 #e10602}
+100%{border-color:#4791ff transparent #4791ff #4791ff}}
+@keyframes yunying{0%{background-color:#3385ff;border-bottom:1px solid #2d78f4}
+100%{background-color:#e10602;border-bottom:1px solid #c30602}}
+@keyframes yunying-blue{0%{background-color:#e10602;border-bottom:1px solid #c30602}
+100%{background-color:#3385ff;border-bottom:1px solid #2d78f4}}
+@keyframes yy-ipt{0%{border-color:#4791ff transparent #4791ff #4791ff}
+100%{border-color:#e10602 transparent #e10602 #e10602}}
+@keyframes yy-ipt-blue{0%{border-color:#e10602 transparent #e10602 #e10602}
+100%{border-color:#4791ff transparent #4791ff #4791ff}}
+@keyframes yunying{0%{background-color:#3385ff;border-bottom:1px solid #2d78f4}
+100%{background-color:#e10602;border-bottom:1px solid #c30602}}
+@keyframes yunying-blue{0%{background-color:#e10602;border-bottom:1px solid #c30602}
+100%{background-color:#3385ff;border-bottom:1px solid #2d78f4}}
+@keyframes yy-ipt{0%{border-color:#4791ff transparent #4791ff #4791ff}
+100%{border-color:#e10602 transparent #e10602 #e10602}}
+@keyframes yy-ipt-blue{0%{border-color:#e10602 transparent #e10602 #e10602}
+100%{border-color:#4791ff transparent #4791ff #4791ff}}
+@keyframes yunying{0%{background-color:#3385ff;border-bottom:1px solid #2d78f4}
+100%{background-color:#e10602;border-bottom:1px solid #c30602}}
+@keyframes yunying-blue{0%{background-color:#e10602;border-bottom:1px solid #c30602}
+100%{background-color:#3385ff;border-bottom:1px solid #2d78f4}}
+@keyframes yy-ipt{0%{border-color:#4791ff transparent #4791ff #4791ff}
+100%{border-color:#e10602 transparent #e10602 #e10602}}
+@keyframes yy-ipt-blue{0%{border-color:#e10602 transparent #e10602 #e10602}
+100%{border-color:#4791ff transparent #4791ff #4791ff}}
+@keyframes yunying{0%{background-color:#3385ff;border-bottom:1px solid #2d78f4}
+100%{background-color:#e10602;border-bottom:1px solid #c30602}}
+@keyframes yunying-blue{0%{background-color:#e10602;border-bottom:1px solid #c30602}
+100%{background-color:#3385ff;border-bottom:1px solid #2d78f4}}
+@keyframes yy-ipt{0%{border-color:#4791ff transparent #4791ff #4791ff}
+100%{border-color:#e10602 transparent #e10602 #e10602}}
+@keyframes yy-ipt-blue{0%{border-color:#e10602 transparent #e10602 #e10602}
+100%{border-color:#4791ff transparent #4791ff #4791ff}}
+@keyframes yunying{0%{background-color:#3385ff;border-bottom:1px solid #2d78f4}
+100%{background-color:#e10602;border-bottom:1px solid #c30602}}
+@keyframes yunying-blue{0%{background-color:#e10602;border-bottom:1px solid #c30602}
+100%{background-color:#3385ff;border-bottom:1px solid #2d78f4}}
+@keyframes yy-ipt{0%{border-color:#4791ff transparent #4791ff #4791ff}
+100%{border-color:#e10602 transparent #e10602 #e10602}}
+@keyframes yy-ipt-blue{0%{border-color:#e10602 transparent #e10602 #e10602}
+100%{border-color:#4791ff transparent #4791ff #4791ff}}
+@keyframes yunying{0%{background-color:#3385ff;border-bottom:1px solid #2d78f4}
+100%{background-color:#e10602;border-bottom:1px solid #c30602}}
+@keyframes yunying-blue{0%{background-color:#e10602;border-bottom:1px solid #c30602}
+100%{background-color:#3385ff;border-bottom:1px solid #2d78f4}}
+@keyframes yy-ipt{0%{border-color:#4791ff transparent #4791ff #4791ff}
+100%{border-color:#e10602 transparent #e10602 #e10602}}
+@keyframes yy-ipt-blue{0%{border-color:#e10602 transparent #e10602 #e10602}
+100%{border-color:#4791ff transparent #4791ff #4791ff}}
+@keyframes yunying{0%{background-color:#3385ff;border-bottom:1px solid #2d78f4}
+100%{background-color:#e10602;border-bottom:1px solid #c30602}}
+@keyframes yunying-blue{0%{background-color:#e10602;border-bottom:1px solid #c30602}
+100%{background-color:#3385ff;border-bottom:1px solid #2d78f4}}
+@keyframes yy-ipt{0%{border-color:#4791ff transparent #4791ff #4791ff}
+100%{border-color:#e10602 transparent #e10602 #e10602}}
+@keyframes yy-ipt-blue{0%{border-color:#e10602 transparent #e10602 #e10602}
+100%{border-color:#4791ff transparent #4791ff #4791ff}}
+@keyframes yunying{0%{background-color:#3385ff;border-bottom:1px solid #2d78f4}
+100%{background-color:#e10602;border-bottom:1px solid #c30602}}
+@keyframes yunying-blue{0%{background-color:#e10602;border-bottom:1px solid #c30602}
+100%{background-color:#3385ff;border-bottom:1px solid #2d78f4}}
+@keyframes yy-ipt{0%{border-color:#4791ff transparent #4791ff #4791ff}
+100%{border-color:#e10602 transparent #e10602 #e10602}}
+@keyframes yy-ipt-blue{0%{border-color:#e10602 transparent #e10602 #e10602}
+100%{border-color:#4791ff transparent #4791ff #4791ff}}
+@keyframes yunying{0%{background-color:#3385ff;border-bottom:1px solid #2d78f4}
+100%{background-color:#e10602;border-bottom:1px solid #c30602}}
+@keyframes yunying-blue{0%{background-color:#e10602;border-bottom:1px solid #c30602}
+100%{background-color:#3385ff;border-bottom:1px solid #2d78f4}}
+@keyframes yy-ipt{0%{border-color:#4791ff transparent #4791ff #4791ff}
+100%{border-color:#e10602 transparent #e10602 #e10602}}
+@keyframes yy-ipt-blue{0%{border-color:#e10602 transparent #e10602 #e10602}
+100%{border-color:#4791ff transparent #4791ff #4791ff}}
+@keyframes yunying{0%{background-color:#3385ff;border-bottom:1px solid #2d78f4}
+100%{background-color:#e10602;border-bottom:1px solid #c30602}}
+@keyframes yunying-blue{0%{background-color:#e10602;border-bottom:1px solid #c30602}
+100%{background-color:#3385ff;border-bottom:1px solid #2d78f4}}
+@keyframes yy-ipt{0%{border-color:#4791ff transparent #4791ff #4791ff}
+100%{border-color:#e10602 transparent #e10602 #e10602}}
+@keyframes yy-ipt-blue{0%{border-color:#e10602 transparent #e10602 #e10602}
+100%{border-color:#4791ff transparent #4791ff #4791ff}}
+@keyframes yunying{0%{background-color:#3385ff;border-bottom:1px solid #2d78f4}
+100%{background-color:#e10602;border-bottom:1px solid #c30602}}
+@keyframes yunying-blue{0%{background-color:#e10602;border-bottom:1px solid #c30602}
+100%{background-color:#3385ff;border-bottom:1px solid #2d78f4}}
+@keyframes yy-ipt{0%{border-color:#4791ff transparent #4791ff #4791ff}
+100%{border-color:#e10602 transparent #e10602 #e10602}}
+@keyframes yy-ipt-blue{0%{border-color:#e10602 transparent #e10602 #e10602}
+100%{border-color:#4791ff transparent #4791ff #4791ff}}
+@keyframes yunying{0%{background-color:#3385ff;border-bottom:1px solid #2d78f4}
+100%{background-color:#e10602;border-bottom:1px solid #c30602}}
+@keyframes yunying-blue{0%{background-color:#e10602;border-bottom:1px solid #c30602}
+100%{background-color:#3385ff;border-bottom:1px solid #2d78f4}}
+@keyframes yy-ipt{0%{border-color:#4791ff transparent #4791ff #4791ff}
+100%{border-color:#e10602 transparent #e10602 #e10602}}
+@keyframes yy-ipt-blue{0%{border-color:#e10602 transparent #e10602 #e10602}
+100%{border-color:#4791ff transparent #4791ff #4791ff}}
+@keyframes yunying{0%{background-color:#3385ff;border-bottom:1px solid #2d78f4}
+100%{background-color:#e10602;border-bottom:1px solid #c30602}}
+@keyframes yunying-blue{0%{background-color:#e10602;border-bottom:1px solid #c30602}
+100%{background-color:#3385ff;border-bottom:1px solid #2d78f4}}
+@keyframes yy-ipt{0%{border-color:#4791ff transparent #4791ff #4791ff}
+100%{border-color:#e10602 transparent #e10602 #e10602}}
+@keyframes yy-ipt-blue{0%{border-color:#e10602 transparent #e10602 #e10602}
+100%{border-color:#4791ff transparent #4791ff #4791ff}}
+@keyframes yunying{0%{background-color:#3385ff;border-bottom:1px solid #2d78f4}
+100%{background-color:#e10602;border-bottom:1px solid #c30602}}
+@keyframes yunying-blue{0%{background-color:#e10602;border-bottom:1px solid #c30602}
+100%{background-color:#3385ff;border-bottom:1px solid #2d78f4}}
+@keyframes yy-ipt{0%{border-color:#4791ff transparent #4791ff #4791ff}
+100%{border-color:#e10602 transparent #e10602 #e10602}}
+@keyframes yy-ipt-blue{0%{border-color:#e10602 transparent #e10602 #e10602}
+100%{border-color:#4791ff transparent #4791ff #4791ff}}
+@keyframes yunying{0%{background-color:#3385ff;border-bottom:1px solid #2d78f4}
+100%{background-color:#e10602;border-bottom:1px solid #c30602}}
+@keyframes yunying-blue{0%{background-color:#e10602;border-bottom:1px solid #c30602}
+100%{background-color:#3385ff;border-bottom:1px solid #2d78f4}}
+@keyframes yy-ipt{0%{border-color:#4791ff transparent #4791ff #4791ff}
+100%{border-color:#e10602 transparent #e10602 #e10602}}
+@keyframes yy-ipt-blue{0%{border-color:#e10602 transparent #e10602 #e10602}
+100%{border-color:#4791ff transparent #4791ff #4791ff}}
+@keyframes yunying{0%{background-color:#3385ff;border-bottom:1px solid #2d78f4}
+100%{background-color:#e10602;border-bottom:1px solid #c30602}}
+@keyframes yunying-blue{0%{background-color:#e10602;border-bottom:1px solid #c30602}
+100%{background-color:#3385ff;border-bottom:1px solid #2d78f4}}
+@keyframes yy-ipt{0%{border-color:#4791ff transparent #4791ff #4791ff}
+100%{border-color:#e10602 transparent #e10602 #e10602}}
+@keyframes yy-ipt-blue{0%{border-color:#e10602 transparent #e10602 #e10602}
+100%{border-color:#4791ff transparent #4791ff #4791ff}}
+@keyframes yunying{0%{background-color:#3385ff;border-bottom:1px solid #2d78f4}
+100%{background-color:#e10602;border-bottom:1px solid #c30602}}
+@keyframes yunying-blue{0%{background-color:#e10602;border-bottom:1px solid #c30602}
+100%{background-color:#3385ff;border-bottom:1px solid #2d78f4}}
+@keyframes yy-ipt{0%{border-color:#4791ff transparent #4791ff #4791ff}
+100%{border-color:#e10602 transparent #e10602 #e10602}}
+@keyframes yy-ipt-blue{0%{border-color:#e10602 transparent #e10602 #e10602}
+100%{border-color:#4791ff transparent #4791ff #4791ff}}
+@keyframes yunying{0%{background-color:#3385ff;border-bottom:1px solid #2d78f4}
+100%{background-color:#e10602;border-bottom:1px solid #c30602}}
+@keyframes yunying-blue{0%{background-color:#e10602;border-bottom:1px solid #c30602}
+100%{background-color:#3385ff;border-bottom:1px solid #2d78f4}}
+@keyframes yy-ipt{0%{border-color:#4791ff transparent #4791ff #4791ff}
+100%{border-color:#e10602 transparent #e10602 #e10602}}
+@keyframes yy-ipt-blue{0%{border-color:#e10602 transparent #e10602 #e10602}
+100%{border-color:#4791ff transparent #4791ff #4791ff}}
+@keyframes yunying{0%{background-color:#3385ff;border-bottom:1px solid #2d78f4}
+100%{background-color:#e10602;border-bottom:1px solid #c30602}}
+@keyframes yunying-blue{0%{background-color:#e10602;border-bottom:1px solid #c30602}
+100%{background-color:#3385ff;border-bottom:1px solid #2d78f4}}
+@keyframes yy-ipt{0%{border-color:#4791ff transparent #4791ff #4791ff}
+100%{border-color:#e10602 transparent #e10602 #e10602}}
+@keyframes yy-ipt-blue{0%{border-color:#e10602 transparent #e10602 #e10602}
+100%{border-color:#4791ff transparent #4791ff #4791ff}}
+@keyframes yunying{0%{background-color:#3385ff;border-bottom:1px solid #2d78f4}
+100%{background-color:#e10602;border-bottom:1px solid #c30602}}
+@keyframes yunying-blue{0%{background-color:#e10602;border-bottom:1px solid #c30602}
+100%{background-color:#3385ff;border-bottom:1px solid #2d78f4}}
+@keyframes yy-ipt{0%{border-color:#4791ff transparent #4791ff #4791ff}
+100%{border-color:#e10602 transparent #e10602 #e10602}}
+@keyframes yy-ipt-blue{0%{border-color:#e10602 transparent #e10602 #e10602}
+100%{border-color:#4791ff transparent #4791ff #4791ff}}
+@keyframes yunying{0%{background-color:#3385ff;border-bottom:1px solid #2d78f4}
+100%{background-color:#e10602;border-bottom:1px solid #c30602}}
+@keyframes yunying-blue{0%{background-color:#e10602;border-bottom:1px solid #c30602}
+100%{background-color:#3385ff;border-bottom:1px solid #2d78f4}}
+@keyframes yy-ipt{0%{border-color:#4791ff transparent #4791ff #4791ff}
+100%{border-color:#e10602 transparent #e10602 #e10602}}
+@keyframes yy-ipt-blue{0%{border-color:#e10602 transparent #e10602 #e10602}
+100%{border-color:#4791ff transparent #4791ff #4791ff}}
+@keyframes yunying{0%{background-color:#3385ff;border-bottom:1px solid #2d78f4}
+100%{background-color:#e10602;border-bottom:1px solid #c30602}}
+@keyframes yunying-blue{0%{background-color:#e10602;border-bottom:1px solid #c30602}
+100%{background-color:#3385ff;border-bottom:1px solid #2d78f4}}
+@keyframes yy-ipt{0%{border-color:#4791ff transparent #4791ff #4791ff}
+100%{border-color:#e10602 transparent #e10602 #e10602}}
+@keyframes yy-ipt-blue{0%{border-color:#e10602 transparent #e10602 #e10602}
+100%{border-color:#4791ff transparent #4791ff #4791ff}}
+@keyframes yunying{0%{background-color:#3385ff;border-bottom:1px solid #2d78f4}
+100%{background-color:#e10602;border-bottom:1px solid #c30602}}
+@keyframes yunying-blue{0%{background-color:#e10602;border-bottom:1px solid #c30602}
+100%{background-color:#3385ff;border-bottom:1px solid #2d78f4}}
+@keyframes yy-ipt{0%{border-color:#4791ff transparent #4791ff #4791ff}
+100%{border-color:#e10602 transparent #e10602 #e10602}}
+@keyframes yy-ipt-blue{0%{border-color:#e10602 transparent #e10602 #e10602}
+100%{border-color:#4791ff transparent #4791ff #4791ff}}
+@keyframes yunying{0%{background-color:#3385ff;border-bottom:1px solid #2d78f4}
+100%{background-color:#e10602;border-bottom:1px solid #c30602}}
+@keyframes yunying-blue{0%{background-color:#e10602;border-bottom:1px solid #c30602}
+100%{background-color:#3385ff;border-bottom:1px solid #2d78f4}}
+@keyframes yy-ipt{0%{border-color:#4791ff transparent #4791ff #4791ff}
+100%{border-color:#e10602 transparent #e10602 #e10602}}
+@keyframes yy-ipt-blue{0%{border-color:#e10602 transparent #e10602 #e10602}
+100%{border-color:#4791ff transparent #4791ff #4791ff}}
+@keyframes yunying{0%{background-color:#3385ff;border-bottom:1px solid #2d78f4}
+100%{background-color:#e10602;border-bottom:1px solid #c30602}}
+@keyframes yunying-blue{0%{background-color:#e10602;border-bottom:1px solid #c30602}
+100%{background-color:#3385ff;border-bottom:1px solid #2d78f4}}
+@keyframes yy-ipt{0%{border-color:#4791ff transparent #4791ff #4791ff}
+100%{border-color:#e10602 transparent #e10602 #e10602}}
+@keyframes yy-ipt-blue{0%{border-color:#e10602 transparent #e10602 #e10602}
+100%{border-color:#4791ff transparent #4791ff #4791ff}}
+@keyframes yunying{0%{background-color:#3385ff;border-bottom:1px solid #2d78f4}
+100%{background-color:#e10602;border-bottom:1px solid #c30602}}
+@keyframes yunying-blue{0%{background-color:#e10602;border-bottom:1px solid #c30602}
+100%{background-color:#3385ff;border-bottom:1px solid #2d78f4}}
+@keyframes yy-ipt{0%{border-color:#4791ff transparent #4791ff #4791ff}
+100%{border-color:#e10602 transparent #e10602 #e10602}}
+@keyframes yy-ipt-blue{0%{border-color:#e10602 transparent #e10602 #e10602}
+100%{border-color:#4791ff transparent #4791ff #4791ff}}
+@keyframes yunying{0%{background-color:#3385ff;border-bottom:1px solid #2d78f4}
+100%{background-color:#e10602;border-bottom:1px solid #c30602}}
+@keyframes yunying-blue{0%{background-color:#e10602;border-bottom:1px solid #c30602}
+100%{background-color:#3385ff;border-bottom:1px solid #2d78f4}}
+@keyframes yy-ipt{0%{border-color:#4791ff transparent #4791ff #4791ff}
+100%{border-color:#e10602 transparent #e10602 #e10602}}
+@keyframes yy-ipt-blue{0%{border-color:#e10602 transparent #e10602 #e10602}
+100%{border-color:#4791ff transparent #4791ff #4791ff}}
+@keyframes yunying{0%{background-color:#3385ff;border-bottom:1px solid #2d78f4}
+100%{background-color:#e10602;border-bottom:1px solid #c30602}}
+@keyframes yunying-blue{0%{background-color:#e10602;border-bottom:1px solid #c30602}
+100%{background-color:#3385ff;border-bottom:1px solid #2d78f4}}
+@keyframes yy-ipt{0%{border-color:#4791ff transparent #4791ff #4791ff}
+100%{border-color:#e10602 transparent #e10602 #e10602}}
+@keyframes yy-ipt-blue{0%{border-color:#e10602 transparent #e10602 #e10602}
+100%{border-color:#4791ff transparent #4791ff #4791ff}}
+@keyframes yunying{0%{background-color:#3385ff;border-bottom:1px solid #2d78f4}
+100%{background-color:#e10602;border-bottom:1px solid #c30602}}
+@keyframes yunying-blue{0%{background-color:#e10602;border-bottom:1px solid #c30602}
+100%{background-color:#3385ff;border-bottom:1px solid #2d78f4}}
+@keyframes yy-ipt{0%{border-color:#4791ff transparent #4791ff #4791ff}
+100%{border-color:#e10602 transparent #e10602 #e10602}}
+@keyframes yy-ipt-blue{0%{border-color:#e10602 transparent #e10602 #e10602}
+100%{border-color:#4791ff transparent #4791ff #4791ff}}
+@keyframes yunying{0%{background-color:#3385ff;border-bottom:1px solid #2d78f4}
+100%{background-color:#e10602;border-bottom:1px solid #c30602}}
+@keyframes yunying-blue{0%{background-color:#e10602;border-bottom:1px solid #c30602}
+100%{background-color:#3385ff;border-bottom:1px solid #2d78f4}}
+@keyframes yy-ipt{0%{border-color:#4791ff transparent #4791ff #4791ff}
+100%{border-color:#e10602 transparent #e10602 #e10602}}
+@keyframes yy-ipt-blue{0%{border-color:#e10602 transparent #e10602 #e10602}
+100%{border-color:#4791ff transparent #4791ff #4791ff}}
+@keyframes yunying{0%{background-color:#3385ff;border-bottom:1px solid #2d78f4}
+100%{background-color:#e10602;border-bottom:1px solid #c30602}}
+@keyframes yunying-blue{0%{background-color:#e10602;border-bottom:1px solid #c30602}
+100%{background-color:#3385ff;border-bottom:1px solid #2d78f4}}
+@keyframes yy-ipt{0%{border-color:#4791ff transparent #4791ff #4791ff}
+100%{border-color:#e10602 transparent #e10602 #e10602}}
+@keyframes yy-ipt-blue{0%{border-color:#e10602 transparent #e10602 #e10602}
+100%{border-color:#4791ff transparent #4791ff #4791ff}}
+@keyframes yunying{0%{background-color:#3385ff;border-bottom:1px solid #2d78f4}
+100%{background-color:#e10602;border-bottom:1px solid #c30602}}
+@keyframes yunying-blue{0%{background-color:#e10602;border-bottom:1px solid #c30602}
+100%{background-color:#3385ff;border-bottom:1px solid #2d78f4}}
+@keyframes yy-ipt{0%{border-color:#4791ff transparent #4791ff #4791ff}
+100%{border-color:#e10602 transparent #e10602 #e10602}}
+@keyframes yy-ipt-blue{0%{border-color:#e10602 transparent #e10602 #e10602}
+100%{border-color:#4791ff transparent #4791ff #4791ff}}
+@keyframes yunying{0%{background-color:#3385ff;border-bottom:1px solid #2d78f4}
+100%{background-color:#e10602;border-bottom:1px solid #c30602}}
+@keyframes yunying-blue{0%{background-color:#e10602;border-bottom:1px solid #c30602}
+100%{background-color:#3385ff;border-bottom:1px solid #2d78f4}}
+@keyframes yy-ipt{0%{border-color:#4791ff transparent #4791ff #4791ff}
+100%{border-color:#e10602 transparent #e10602 #e10602}}
+@keyframes yy-ipt-blue{0%{border-color:#e10602 transparent #e10602 #e10602}
+100%{border-color:#4791ff transparent #4791ff #4791ff}}
+@keyframes yunying{0%{background-color:#3385ff;border-bottom:1px solid #2d78f4}
+100%{background-color:#e10602;border-bottom:1px solid #c30602}}
+@keyframes yunying-blue{0%{background-color:#e10602;border-bottom:1px solid #c30602}
+100%{background-color:#3385ff;border-bottom:1px solid #2d78f4}}
+@keyframes yy-ipt{0%{border-color:#4791ff transparent #4791ff #4791ff}
+100%{border-color:#e10602 transparent #e10602 #e10602}}
+@keyframes yy-ipt-blue{0%{border-color:#e10602 transparent #e10602 #e10602}
+100%{border-color:#4791ff transparent #4791ff #4791ff}}
+@keyframes yunying{0%{background-color:#3385ff;border-bottom:1px solid #2d78f4}
+100%{background-color:#e10602;border-bottom:1px solid #c30602}}
+@keyframes yunying-blue{0%{background-color:#e10602;border-bottom:1px solid #c30602}
+100%{background-color:#3385ff;border-bottom:1px solid #2d78f4}}
+@keyframes yy-ipt{0%{border-color:#4791ff transparent #4791ff #4791ff}
+100%{border-color:#e10602 transparent #e10602 #e10602}}
+@keyframes yy-ipt-blue{0%{border-color:#e10602 transparent #e10602 #e10602}
+100%{border-color:#4791ff transparent #4791ff #4791ff}}
+@keyframes yunying{0%{background-color:#3385ff;border-bottom:1px solid #2d78f4}
+100%{background-color:#e10602;border-bottom:1px solid #c30602}}
+@keyframes yunying-blue{0%{background-color:#e10602;border-bottom:1px solid #c30602}
+100%{background-color:#3385ff;border-bottom:1px solid #2d78f4}}
+@keyframes yy-ipt{0%{border-color:#4791ff transparent #4791ff #4791ff}
+100%{border-color:#e10602 transparent #e10602 #e10602}}
+@keyframes yy-ipt-blue{0%{border-color:#e10602 transparent #e10602 #e10602}
+100%{border-color:#4791ff transparent #4791ff #4791ff}}
+@keyframes yunying{0%{background-color:#3385ff;border-bottom:1px solid #2d78f4}
+100%{background-color:#e10602;border-bottom:1px solid #c30602}}
+@keyframes yunying-blue{0%{background-color:#e10602;border-bottom:1px solid #c30602}
+100%{background-color:#3385ff;border-bottom:1px solid #2d78f4}}
+@keyframes yy-ipt{0%{border-color:#4791ff transparent #4791ff #4791ff}
+100%{border-color:#e10602 transparent #e10602 #e10602}}
+@keyframes yy-ipt-blue{0%{border-color:#e10602 transparent #e10602 #e10602}
+100%{border-color:#4791ff transparent #4791ff #4791ff}}
+@keyframes yunying{0%{background-color:#3385ff;border-bottom:1px solid #2d78f4}
+100%{background-color:#e10602;border-bottom:1px solid #c30602}}
+@keyframes yunying-blue{0%{background-color:#e10602;border-bottom:1px solid #c30602}
+100%{background-color:#3385ff;border-bottom:1px solid #2d78f4}}
+@keyframes yy-ipt{0%{border-color:#4791ff transparent #4791ff #4791ff}
+100%{border-color:#e10602 transparent #e10602 #e10602}}
+@keyframes yy-ipt-blue{0%{border-color:#e10602 transparent #e10602 #e10602}
+100%{border-color:#4791ff transparent #4791ff #4791ff}}
+@keyframes yunying{0%{background-color:#3385ff;border-bottom:1px solid #2d78f4}
+100%{background-color:#e10602;border-bottom:1px solid #c30602}}
+@keyframes yunying-blue{0%{background-color:#e10602;border-bottom:1px solid #c30602}
+100%{background-color:#3385ff;border-bottom:1px solid #2d78f4}}
+@keyframes yy-ipt{0%{border-color:#4791ff transparent #4791ff #4791ff}
+100%{border-color:#e10602 transparent #e10602 #e10602}}
+@keyframes yy-ipt-blue{0%{border-color:#e10602 transparent #e10602 #e10602}
+100%{border-color:#4791ff transparent #4791ff #4791ff}}
+@keyframes yunying{0%{background-color:#3385ff;border-bottom:1px solid #2d78f4}
+100%{background-color:#e10602;border-bottom:1px solid #c30602}}
+@keyframes yunying-blue{0%{background-color:#e10602;border-bottom:1px solid #c30602}
+100%{background-color:#3385ff;border-bottom:1px solid #2d78f4}}
+@keyframes yy-ipt{0%{border-color:#4791ff transparent #4791ff #4791ff}
+100%{border-color:#e10602 transparent #e10602 #e10602}}
+@keyframes yy-ipt-blue{0%{border-color:#e10602 transparent #e10602 #e10602}
+100%{border-color:#4791ff transparent #4791ff #4791ff}}
+@keyframes yunying{0%{background-color:#3385ff;border-bottom:1px solid #2d78f4}
+100%{background-color:#e10602;border-bottom:1px solid #c30602}}
+@keyframes yunying-blue{0%{background-color:#e10602;border-bottom:1px solid #c30602}
+100%{background-color:#3385ff;border-bottom:1px solid #2d78f4}}
+@keyframes yy-ipt{0%{border-color:#4791ff transparent #4791ff #4791ff}
+100%{border-color:#e10602 transparent #e10602 #e10602}}
+@keyframes yy-ipt-blue{0%{border-color:#e10602 transparent #e10602 #e10602}
+100%{border-color:#4791ff transparent #4791ff #4791ff}}
+@keyframes yunying{0%{background-color:#3385ff;border-bottom:1px solid #2d78f4}
+100%{background-color:#e10602;border-bottom:1px solid #c30602}}
+@keyframes yunying-blue{0%{background-color:#e10602;border-bottom:1px solid #c30602}
+100%{background-color:#3385ff;border-bottom:1px solid #2d78f4}}
+@keyframes yy-ipt{0%{border-color:#4791ff transparent #4791ff #4791ff}
+100%{border-color:#e10602 transparent #e10602 #e10602}}
+@keyframes yy-ipt-blue{0%{border-color:#e10602 transparent #e10602 #e10602}
+100%{border-color:#4791ff transparent #4791ff #4791ff}}
+@keyframes yunying{0%{background-color:#3385ff;border-bottom:1px solid #2d78f4}
+100%{background-color:#e10602;border-bottom:1px solid #c30602}}
+@keyframes yunying-blue{0%{background-color:#e10602;border-bottom:1px solid #c30602}
+100%{background-color:#3385ff;border-bottom:1px solid #2d78f4}}
+@keyframes yy-ipt{0%{border-color:#4791ff transparent #4791ff #4791ff}
+100%{border-color:#e10602 transparent #e10602 #e10602}}
+@keyframes yy-ipt-blue{0%{border-color:#e10602 transparent #e10602 #e10602}
+100%{border-color:#4791ff transparent #4791ff #4791ff}}
+@keyframes yunying{0%{background-color:#3385ff;border-bottom:1px solid #2d78f4}
+100%{background-color:#e10602;border-bottom:1px solid #c30602}}
+@keyframes yunying-blue{0%{background-color:#e10602;border-bottom:1px solid #c30602}
+100%{background-color:#3385ff;border-bottom:1px solid #2d78f4}}
+@keyframes yy-ipt{0%{border-color:#4791ff transparent #4791ff #4791ff}
+100%{border-color:#e10602 transparent #e10602 #e10602}}
+@keyframes yy-ipt-blue{0%{border-color:#e10602 transparent #e10602 #e10602}
+100%{border-color:#4791ff transparent #4791ff #4791ff}}
+@keyframes yunying{0%{background-color:#3385ff;border-bottom:1px solid #2d78f4}
+100%{background-color:#e10602;border-bottom:1px solid #c30602}}
+@keyframes yunying-blue{0%{background-color:#e10602;border-bottom:1px solid #c30602}
+100%{background-color:#3385ff;border-bottom:1px solid #2d78f4}}
+@keyframes yy-ipt{0%{border-color:#4791ff transparent #4791ff #4791ff}
+100%{border-color:#e10602 transparent #e10602 #e10602}}
+@keyframes yy-ipt-blue{0%{border-color:#e10602 transparent #e10602 #e10602}
+100%{border-color:#4791ff transparent #4791ff #4791ff}}
+@keyframes yunying{0%{background-color:#3385ff;border-bottom:1px solid #2d78f4}
+100%{background-color:#e10602;border-bottom:1px solid #c30602}}
+@keyframes yunying-blue{0%{background-color:#e10602;border-bottom:1px solid #c30602}
+100%{background-color:#3385ff;border-bottom:1px solid #2d78f4}}
+@keyframes yy-ipt{0%{border-color:#4791ff transparent #4791ff #4791ff}
+100%{border-color:#e10602 transparent #e10602 #e10602}}
+@keyframes yy-ipt-blue{0%{border-color:#e10602 transparent #e10602 #e10602}
+100%{border-color:#4791ff transparent #4791ff #4791ff}}
+@keyframes yunying{0%{background-color:#3385ff;border-bottom:1px solid #2d78f4}
+100%{background-color:#e10602;border-bottom:1px solid #c30602}}
+@keyframes yunying-blue{0%{background-color:#e10602;border-bottom:1px solid #c30602}
+100%{background-color:#3385ff;border-bottom:1px solid #2d78f4}}
+@keyframes yy-ipt{0%{border-color:#4791ff transparent #4791ff #4791ff}
+100%{border-color:#e10602 transparent #e10602 #e10602}}
+@keyframes yy-ipt-blue{0%{border-color:#e10602 transparent #e10602 #e10602}
+100%{border-color:#4791ff transparent #4791ff #4791ff}}
+@keyframes yunying{0%{background-color:#3385ff;border-bottom:1px solid #2d78f4}
+100%{background-color:#e10602;border-bottom:1px solid #c30602}}
+@keyframes yunying-blue{0%{background-color:#e10602;border-bottom:1px solid #c30602}
+100%{background-color:#3385ff;border-bottom:1px solid #2d78f4}}
+@keyframes yy-ipt{0%{border-color:#4791ff transparent #4791ff #4791ff}
+100%{border-color:#e10602 transparent #e10602 #e10602}}
+@keyframes yy-ipt-blue{0%{border-color:#e10602 transparent #e10602 #e10602}
+100%{border-color:#4791ff transparent #4791ff #4791ff}}
+@keyframes yunying{0%{background-color:#3385ff;border-bottom:1px solid #2d78f4}
+100%{background-color:#e10602;border-bottom:1px solid #c30602}}
+@keyframes yunying-blue{0%{background-color:#e10602;border-bottom:1px solid #c30602}
+100%{background-color:#3385ff;border-bottom:1px solid #2d78f4}}
